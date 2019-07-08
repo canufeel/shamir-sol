@@ -1,0 +1,18 @@
+{
+  "name": "shamir-sol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gf256-sol": "0.0.3",
+    "truffle": "5.0.11"
+  }
+}
