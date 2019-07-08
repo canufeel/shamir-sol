@@ -13,6 +13,6 @@
   "license": "ISC",
   "dependencies": {
     "gf256-sol": "0.0.3",
-    "truffle": "5.0.11"
+    "truffle": "5.0.26"
   }
 }
